@@ -52,5 +52,5 @@ SUBJECT: Safe Space alert at National Day of Civic Hacking
 
 I am writing because of harassment at a Code for America Communities event, (Mark Howe, Homewood Branch of Carnegie Library June 6th, 2015). 
 
-You can reach me at mhowe0422@gmail.com). Thank you.
+You can reach me at mhowe0422@gmail.com. Thank you.
 
