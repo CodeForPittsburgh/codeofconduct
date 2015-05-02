@@ -38,7 +38,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at mhowe0422@gmail.com. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
@@ -48,9 +48,9 @@ We value your attendance and hope that by communicating these expectations widel
 
 ####Email Template for Anti-Harassment Reporting
 
-SUBJECT: Safe Space alert at [EVENT NAME]
+SUBJECT: Safe Space alert at National Day of Civic Hacking
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+I am writing because of harassment at a Code for America Communities event, (Mark Howe, Homewood Branch of Carnegie Library June 6th, 2015). 
 
-You can reach me at (CONTACT INFO). Thank you.
+You can reach me at mhowe0422@gmail.com). Thank you.
 
